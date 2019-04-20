@@ -1,0 +1,1 @@
+<a href="{{route('permiso')}}">Ir a principal</a>
